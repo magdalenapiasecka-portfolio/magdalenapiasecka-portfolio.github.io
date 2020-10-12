@@ -1,0 +1,17 @@
+
+
+
+
+W ramach zadania rekrutacyjnego stworzyłam widok hi-fi mobile oraz desktop ducha załączonego Key Visuala.
+
+W zadaniu poproszono o widok "panelu użytkownika", który zawierał:
+
+<b>Nazwę</b> zalogowanego użytkownika
+
+<b>Menu</b>, które zawiera pozycje: aukcje, obserwowane aukcje, wystaw na sprzedaż, bazę wiedzy, politykę prywatności, centrum sporów (element aktywny)
+
+<b>Tabelę</b> centrum sporów zawierającej  kolumny: ID zgłoszenia, nazwa ogłoszenia, data zgłoszenia, data ostatniej odpowiedzi oraz akcja „przejścia do szczegółów tego zgłoszenia”.
+
+<b>Powiadomienie systemowe</b> zaprojektowane w formie krótkiego komunikatu (treść, wygląd oraz placement), który poinformuje o tym, że ktoś właśnie złożył ofertę w jednej z aukcji wystawionej przez zalogowanego użytkownika
+
+Poniżej znajduje się realizacja mojego projektu:

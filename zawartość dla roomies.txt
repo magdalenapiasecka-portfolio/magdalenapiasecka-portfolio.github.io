@@ -1,0 +1,53 @@
+OGÓLNY ZARYS
+
+Cele:
+
+Zidentyfikowanie i zrozumienie potrzeb oraz oczekiwań osób szukających współlokatorów oraz osób szukających najemców.
+Stworzenie oraz zwalidowanie potencjalnego projektu aplikacji
+Przedstawienie mojego toku myślenia oraz procesu tworzenia rozwiązania
+Krytyczna analiza przeprowadzonego projektu
+
+CO TO JEST ROOMIES?
+
+platforma skupiająca osoby zainteresowane wynajmem na jednej platformie, która umożliwia im kontakt
+Roomies pozwala poznać preferencje potencjalnych współlokatorów lub najemców za pośrednictwem kilku kliknięć
+umożliwia dopasowanie między osobami wynajmującymi lokum zwiększając ich komfort i poczucie bezpieczeństwa
+minimalizuje stres związany z poznawaniem nowych ludzi
+
+maksymalizując ich dopasowanie i kompatybilność jednocześnie zwiększając ich komfort i poczucie bezpieczeństwa oraz minimalizując stres związany z poznawaniem nowych ludzi
+
+
+wyzwania w projekcie
+
+znalezienie rozwiązania dla osób narzekających na swoich wspołlokatorów oraz mnogość portali, na których znajdują się ogłoszenia z mieszkaniami do wynajęcia
+
+proces projektowy (user centered design)
+
+badanie potrzeb użytkowników za pomocą ankiety internetowej
+projekt wstępnej wersji aplikacji
+testy użyteczności
+wdrożenie poprawek i finalizacja projektu
+
+Przechodząc do początku procesu projektowania zadałam sobie pytanie:
+
+JAKICH DANYCH POSZUKUJE UŻYTKOWNIK PRZY WYBORZE WSPÓŁLOKATORA?
+
+Wykonałam badanie na grupie 10 osób, które poprosiłam na odpowiedzenie na dwa pytania:
+
+3. testy użyteczności
+
+grupa 5 studentów poszukujących mieszkania w ostatnich 6 miesiącach została poproszona o skorzystanie z aplikacji i wykonanie tych czynności:
+
+dzięki temu miałam wgląd w sposób w jaki użytkownicyposługują się aplikacją oraz to czy ich działania są skuteczne w ramach wszystkich zaprojektowanych interakcji
+
+
+4. wdrożenie poprawek i finalizacja projektu
+
+problem (weryfikacja profilu)
+użytkownicy nie wiedzieli w jaki sposób zakończyć proces rejestracji i rozpocząć poszukiwania współlokatora
+
+użytkownicy nie dostrzegali tego symbolu i informacji
+
+Rozwiązanie
+
+umieściłam Tab Bar, który jest wyraźną informacją o możliwości nawigacji po aplikacji
