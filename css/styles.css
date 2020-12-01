@@ -179,6 +179,7 @@ nav li a:hover {
   text-decoration: underline;
 }
 
+@media screen and (max-width: 1024px) {
 .Madzia {
   width: 70%;
   height: 70%;
