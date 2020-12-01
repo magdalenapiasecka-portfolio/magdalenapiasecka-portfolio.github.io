@@ -133,8 +133,10 @@ ul li {
     margin-top: 9px;
   }
 
-.koniec p {
+.credits_text{
   color: #202020;
+  text-align: center;
+  font-size: 13px;
 }
 
 .image2 {
@@ -179,7 +181,6 @@ nav li a:hover {
   text-decoration: underline;
 }
 
-@media screen and (max-width: 1024px) {
 .Madzia {
   width: 70%;
   height: 70%;
@@ -203,3 +204,49 @@ font-size: 38px;
 font-family: 'Josefin Sans', sans-serif;
 margin-top: -45px;
 }
+
+/*______________________*/
+
+.link_active.none{
+  text-decoration: none;
+}
+
+.none:hover{
+  text-decoration: underline;
+}
+
+.main_page_button{
+margin-top: 90px;
+margin-bottom: 19px;
+margin-left: 15px
+}
+
+.project.blue.footer_style{
+  margin-top: 50px
+}
+
+.text_footer{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.text_email{
+  color: black;
+}
+
+.text_title{
+margin-top: -5px;
+}
+
+.background--white{
+  background-color: white;
+  padding: 0px;
+}
+
+.background_light_with_margins{
+  background-color: white;
+  margin-top: -26px;
+  padding: 46px;
+  margin-left: -17px;
+  margin-right: -17px;
+  margin-bottom: -87px;
