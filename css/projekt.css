@@ -1,0 +1,23 @@
+.placement{
+  margin-bottom:100px;
+}
+
+.development_project_title{
+  font-size: 17px;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 57px;
+  line-height: 26px;
+  margin-left: -64px;
+}
+
+.development_project_list{
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  line-height: 26px;
+}
+
+.carsell_picture{
+  margin-top: 190px;
+}
